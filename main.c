@@ -4,6 +4,10 @@ int produit(int a, int b) {
     return a * b;
 }
 
+int moyenne()
+{
+}
+
 int main() {
     printf("Projet collaboratif\n");
     printf("Produit = %d\n", produit(4, 5));
